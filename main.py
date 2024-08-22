@@ -1,6 +1,6 @@
 # Dice sum probability calculator
-# Författare: 
-# Datum:
+# Författare: Robin Stake   
+# Datum: 22/08/2024
 
 def main():
     user_input = input().split(" ")
